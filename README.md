@@ -9,8 +9,8 @@ Single player mode.
 ## Requirments
 
 - Computer with decent RAM as the code performs some 
-  computationally expensive operation.
-- TurboC3 or DOSbox compiler to execute a c++ code.
+  computationally expensive operations.
+- TurboC3 or DOSbox compiler to execute the C++ code.
 
 ## Project Duration
    October, 2016 - January, 2017.
